@@ -1,0 +1,8 @@
+
+# Indicators of Compromise (IOCs)
+
+- Suspicious file: invoice_update.exe
+- MD5 Hash: 4a7d1ed414474e4033ac29ccb8653d9b
+- IP Address: 198.51.100.23 (command and control)
+- Domain: secure-medicalupdate.com
+- Registry Entry: HKEY_CURRENT_USER\Software\RansomwareGroup
